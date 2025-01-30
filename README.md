@@ -7,4 +7,4 @@ This is program created by me, that uses bybit api to get data for some cryptocu
 - Than you enter time, when you've entered the deal
 - And of course time when you closed it(your position)
 ## How program analysis data:
-![Alt text](images/example.png)
+![Alt text](images/API.png)
