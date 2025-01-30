@@ -11,4 +11,5 @@ Here you can see part of descripted code:
 - create_data.py is the main file that you should launch to run the programm
 - collect_data_lib_V5.py is file where contains project API connection and data collection logic
 - create_datasets_V5.py is file used to convert data in arrays to padas datasets, that then are converted in csvs
+  
 ![Alt text](images/API.png)
