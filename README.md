@@ -13,3 +13,5 @@ Here you can see part of descripted code:
 - create_datasets_V5.py is file used to convert data in arrays to padas datasets, that then are converted in csvs
   
 ![Alt text](images/API.png)
+
+### Data collection logic:
