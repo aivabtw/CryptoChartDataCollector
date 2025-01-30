@@ -15,3 +15,8 @@ Here you can see part of descripted code:
 ![Alt text](images/API.png)
 
 ### Data collection logic:
+To collect data programm immitates charts move each minute. After each minute it updates data about last 1H and 4H candle.
+I hope this illustrations will help you to understand how graph data collection works.
+
+![Alt text](images/Loop.png)
+![Alt text](images/Scheem.png)
